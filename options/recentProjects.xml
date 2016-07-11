@@ -1,0 +1,262 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/sgrouples" />
+        <option value="$USER_HOME$/workspace/entities" />
+        <option value="$USER_HOME$/workspace/shapeless-example" />
+        <option value="$USER_HOME$/workspace/quill" />
+        <option value="$USER_HOME$/workspace/russian-debugger" />
+        <option value="$APPLICATION_HOME_DIR$/bin/." />
+        <option value="$APPLICATION_HOME_DIR$/bin" />
+        <option value="$USER_HOME$/workspace/quill-example" />
+        <option value="$USER_HOME$/workspace/todo-notification-trigger" />
+        <option value="$USER_HOME$/workspace/codebrag-slack-bot" />
+        <option value="$USER_HOME$/workspace/slime" />
+        <option value="$USER_HOME$/workspace/opigram-library" />
+        <option value="$USER_HOME$/workspace/user-service" />
+        <option value="$USER_HOME$/workspace/cruncher2.1" />
+        <option value="$USER_HOME$/workspace/bobot" />
+        <option value="$USER_HOME$/workspace/reactive-todos" />
+        <option value="$USER_HOME$/workspace/monitoring-service" />
+        <option value="$USER_HOME$/workspace/opigram-survey-service" />
+        <option value="$USER_HOME$/workspace/cards-against-humanity-slack-bot" />
+        <option value="$USER_HOME$/workspace/scala-slack-bot-core" />
+        <option value="$USER_HOME$/workspace/cruncher-results-service" />
+        <option value="$USER_HOME$/workspace/opigram-view-manager-service" />
+        <option value="$USER_HOME$/workspace/PhoneList" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/sgrouples" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/sgrouples" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$APPLICATION_HOME_DIR$/bin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457263727949" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_HOME_DIR$/bin/.">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457263752348" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/bobot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453655420016" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/cards-against-humanity-slack-bot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452376013143" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/codebrag-slack-bot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456178702742" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/cruncher2.1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455048848630" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/entities">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458152984222" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/monitoring-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452546100504" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/opigram-library">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455305902821" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/opigram-survey-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452527791749" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/quill">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457265218572" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/quill-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456945389656" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/reactive-todos">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1453641976376" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/russian-debugger">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457264025597" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/scala-slack-bot-core">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1452375972102" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sgrouples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-145.1617" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1468258255204" />
+              <option name="buildTimestamp" value="1464904800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/shapeless-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1457888558262" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/slime">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455307628417" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/todo-notification-trigger">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1456943170527" />
+              <option name="buildTimestamp" value="1456182000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/user-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.1184" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1455224752798" />
+              <option name="buildTimestamp" value="1449442800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/workspace" />
+  </component>
+</application>

@@ -1,0 +1,54 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>implic</find>
+      <find>FilterVersion</find>
+      <find>getEntit</find>
+      <find>private [router]</find>
+      <find>updateFil</find>
+      <find>InjectedRoutesGenerator</find>
+      <find>Namespace(&quot;uk&quot;, &quot;UK&quot;)</find>
+      <find>searchByFilters</find>
+      <find>Some(namespaceUk.id)</find>
+      <find>getEntityByVersion(createdEntity.uuid</find>
+      <find>entityPatch.uuid</find>
+      <find>functionParser</find>
+      <find>contains</find>
+      <find>setOperationParser</find>
+      <find>*</find>
+      <find>apply</find>
+      <find>new {</find>
+      <find>~</find>
+      <find>createEntityType</find>
+      <find>fail when trying to update parent entity with new ty</find>
+      <find>part of parent</find>
+      <find>Async</find>
+      <find>isUserConfirmedMemberOfGroup</find>
+      <find>isUserConfirmedMemberOfGroupAsync</find>
+      <find>merge</find>
+      <find>invitation.confirm</find>
+      <find>deleteAsync</find>
+      <find>TimeSpa</find>
+      <find>UserApiSp</find>
+      <find>RestRe</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DE</replace>
+      <replace>mwielocha</replace>
+      <replace>info</replace>
+      <replace>debug</replace>
+      <replace>text</replace>
+      <replace>Value</replace>
+      <replace>jim.beam</replace>
+      <replace>UUID</replace>
+      <replace>Namespace(NamespaceID(&quot;uk&quot;), &quot;UK&quot;)</replace>
+      <replace>namespaceUk.id</replace>
+      <replace>getCompiledEntity(createdEntity.namespaceID, createdEntity.uuid)</replace>
+      <replace>entityPatchID</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/workspace/slime</dir>
+      <dir>$USER_HOME$/workspace/sgrouples</dir>
+    </dirStrings>
+  </component>
+</application>

@@ -1,0 +1,190 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="reactive-todos" values="Scala" collectionTime="1453672896600" />
+      <project id="codebrag-slack-bot" values="Scala" collectionTime="1456183559534" />
+      <project id="bobbot" values="Scala" collectionTime="1453672896971" />
+      <project id="user-service" values="Scala" collectionTime="1455227529213" />
+      <project id="slime" values="Scala" collectionTime="1455312473566" />
+      <project id="entities" values="groovy,Scala" collectionTime="1458155965032" />
+      <project id="opigram-library" values="Scala" collectionTime="1455312473457" />
+      <project id="quill" values="Scala" collectionTime="1457277949844" />
+      <project id="Cruncher2" values="Scala" collectionTime="1455138809671" />
+      <project id="quil-example" values="Scala" collectionTime="1456951960833" />
+      <project id="Sgrouples" values="Scala" collectionTime="1468258231059" />
+      <project id="opigram-view-manager-service" values="Scala" collectionTime="1445459480542" />
+      <project id="opigram-survey-service" values="Scala" collectionTime="1452804696811" />
+      <project id="slack-scala-bot-core" values="Scala" collectionTime="1452381300491" />
+      <project id="monitoring-service" values="Scala" collectionTime="1452804697139" />
+      <project id="shapeless-example" values="Scala" collectionTime="1457890284228" />
+      <project id="russian-debugger" values="Scala" collectionTime="1457277949586" />
+    </group>
+    <group name="Git">
+      <project id="reactive-todos" values="config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1453672896613" />
+      <project id="codebrag-slack-bot" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.local.branches.count.2+" collectionTime="1456183559543" />
+      <project id="bobbot" values="config.push.autoupdate.disabled,data.local.branches.count.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled" collectionTime="1453672896971" />
+      <project id="user-service" values="config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1455227529223" />
+      <project id="slime" values="config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.force.push.enabled,data.local.branches.count.2+,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remote.branches.count.2+,data.remotes.in.project.1" collectionTime="1455312473567" />
+      <project id="entities" values="config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remote.branches.count.8+,config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH,data.local.branches.count.5+" collectionTime="1458155965043" />
+      <project id="scala-slack-bot-core" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1452091261385" />
+      <project id="opigram-library" values="config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.local.branches.count.2+,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.15+,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1455312473462" />
+      <project id="todo-notififaction-trigger" values="data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled" collectionTime="1453052664137" />
+      <project id="quill" values="data.remotes.in.project.1,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.local.branches.count.1,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,data.remote.branches.count.5+,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1457277949852" />
+      <project id="Cruncher2" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.remote.branches.count.5+" collectionTime="1455138809686" />
+      <project id="bin" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1457263761391" />
+      <project id="quil-example" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.1,data.local.branches.count.1,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1456951960839" />
+      <project id="Sgrouples" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1468258231065" />
+      <project id="opigram-survey-service" values="config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1452804696820" />
+      <project id="slack-scala-bot-core" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.5+,data.remotes.in.project.1,config.warn.about.detached.enabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.force.push.enabled" collectionTime="1452381300502" />
+      <project id="monitoring-service" values="data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1452804697140" />
+      <project id="shapeless-example" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1457890284231" />
+      <project id="cards-against-humanity-slack-bot" values="config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1452375972101" />
+      <project id="russian-debugger" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1457277949592" />
+    </group>
+    <group name="vcs">
+      <project id="slack-scala-bot-core" values="Git" collectionTime="1452381300392" />
+      <project id="codebrag-slack-bot" values="Git" collectionTime="1456183559263" />
+      <project id="quill" values="Git" collectionTime="1457277949707" />
+      <project id="slime" values="Git" collectionTime="1455312473472" />
+      <project id="Cruncher2" values="Git" collectionTime="1455138809391" />
+      <project id="monitoring-service" values="Git" collectionTime="1452804697025" />
+      <project id="opigram-library" values="Git" collectionTime="1455312473384" />
+      <project id="quil-example" values="Git" collectionTime="1456951960775" />
+      <project id="entities" values="Git" collectionTime="1458155964795" />
+      <project id="reactive-todos" values="Git" collectionTime="1453672896300" />
+      <project id="todo-notififaction-trigger" values="Git" collectionTime="1453052663976" />
+      <project id="bobbot" values="Git" collectionTime="1453672896879" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="quil-example" values="Application" collectionTime="1456951960776" />
+      <project id="shapeless-example" values="Application" collectionTime="1457890284111" />
+      <project id="PhoneList" values="Application" collectionTime="1444855265811" />
+      <project id="entities" values="ScalaTestRunConfiguration" collectionTime="1458155964797" />
+    </group>
+    <group name="language-level">
+      <project id="reactive-todos" values="JDK_1_8" collectionTime="1453672896607" />
+      <project id="codebrag-slack-bot" values="JDK_1_8" collectionTime="1456183559540" />
+      <project id="PhoneList" values="JDK_1_8" collectionTime="1444855265926" />
+      <project id="todo-notififaction-trigger" values="JDK_1_8,JDK_1_5" collectionTime="1453052664132" />
+      <project id="slime" values="JDK_1_8" collectionTime="1455312473567" />
+      <project id="entities" values="JDK_1_8" collectionTime="1458155965040" />
+      <project id="scala-slack-bot-core" values="JDK_1_6" collectionTime="1452091261384" />
+      <project id="opigram-library" values="JDK_1_7" collectionTime="1455312473459" />
+      <project id="cruncher-results-service" values="JDK_1_7" collectionTime="1446381123802" />
+      <project id="bobbot" values="JDK_1_8" collectionTime="1453672896971" />
+      <project id="quill" values="JDK_1_8" collectionTime="1457277949846" />
+      <project id="Cruncher2" values="JDK_1_7" collectionTime="1455138809683" />
+      <project id="user-service" values="JDK_1_8" collectionTime="1455227529221" />
+      <project id="bin" values="JDK_1_6" collectionTime="1457263761390" />
+      <project id="quil-example" values="JDK_1_8" collectionTime="1456951960835" />
+      <project id="Sgrouples" values="JDK_1_8" collectionTime="1468258231064" />
+      <project id="opigram-view-manager-service" values="JDK_1_7" collectionTime="1445459480542" />
+      <project id="opigram-survey-service" values="JDK_1_7" collectionTime="1452804696819" />
+      <project id="slack-scala-bot-core" values="JDK_1_8" collectionTime="1452381300492" />
+      <project id="monitoring-service" values="JDK_1_8" collectionTime="1452804697140" />
+      <project id="shapeless-example" values="JDK_1_8" collectionTime="1457890284230" />
+      <project id="cards-against-humanity-slack-bot" values="JDK_1_8" collectionTime="1452375972101" />
+      <project id="russian-debugger" values="JDK_1_8" collectionTime="1457277949591" />
+    </group>
+    <group name="Scala">
+      <project id="reactive-todos" values="Scala  2.11.7,Library  Shapeless,Library  Akka for Scala,Library  Spray,Library  Play2 for Scala|false" collectionTime="1453672896746" />
+      <project id="codebrag-slack-bot" values="Scala  2.11.6,Library  Spray,Library  Play2 for Scala|false,Library  ScalaTest,Library  Akka for Scala" collectionTime="1456183559652" />
+      <project id="bobbot" values="Library  ScalaTest,Library  Play2 for Scala|false,Scala  2.11.6,Library  Akka for Scala" collectionTime="1453672896974" />
+      <project id="user-service" values="Scala  2.11.7,Library  Spray,Library  JUnit for Scala,Library  Shapeless,Library  Play2 for Scala|false,Library  ScalaTest,Library  Akka for Scala" collectionTime="1455227529334" />
+      <project id="slime" values="Library  ScalaTest,Library  Akka for Scala,Scala  2.11.6,Library  Play2 for Scala|false" collectionTime="1455312473571" />
+      <project id="entities" values="Library  Akka for Scala,Library  Play2 for Scala|false,Scala  2.11.8,Library  Spray,Library  Shapeless,Library  ScalaTest,Library  Elastic4s,Library  JUnit for Scala" collectionTime="1458155965162" />
+      <project id="opigram-library" values="Library  Spray,Library  Scalaz,Library  JUnit for Scala,Library  Specs2,Scala  2.10.6,Library  Shapeless,Library  Akka for Scala,Library  ScalaTest,Library  Finagle,Library  Slick,Library  Play2 for Scala|false" collectionTime="1455312473472" />
+      <project id="cruncher-results-service" values="Library  Play2 for Java|false,Library  Akka for Java" collectionTime="1446381123804" />
+      <project id="quill" values="Library  ScalaTest,Library  postgresql-async,Scala  2.11.7,Library  Scalaz,Library  Quill,Library  Finagle" collectionTime="1457277949862" />
+      <project id="Cruncher2" values="Scala  2.10.6,Library  Spark,Library  Akka for Scala,Library  Play2 for Scala|false,Library  ScalaTest,Library  Spray,Library  Scalaz,Library  Shapeless" collectionTime="1455138809798" />
+      <project id="quil-example" values="Library  ScalaTest,Library  Quill,Scala  2.11.7" collectionTime="1456951960842" />
+      <project id="Sgrouples" values="Library  Lift Framework,Library  Spray,Library  JUnit for Scala,Scala  2.11.8,Library  Akka for Scala,Library  ScalaTest" collectionTime="1468258231136" />
+      <project id="opigram-view-manager-service" values="Library  Play2 for Scala|false,Library  Scalaz,Library  Spray,Scala  2.10.5,Library  JUnit for Scala,Library  Akka for Scala,Library  Shapeless,Library  ScalaTest,Library  Specs2" collectionTime="1445459480551" />
+      <project id="opigram-survey-service" values="Library  Akka for Scala,Library  Shapeless,Library  Specs2,Library  JUnit for Scala,Library  Spray,Library  Play2 for Scala|false,Library  Scalaz,Library  Slick,Library  ScalaTest,Scala  2.10.5" collectionTime="1452804696844" />
+      <project id="slack-scala-bot-core" values="Library  ScalaTest,Scala  2.11.6,Library  Shapeless,Library  Akka for Scala,Library  Spray,Library  Slick" collectionTime="1452381300513" />
+      <project id="monitoring-service" values="Library  Akka for Scala,Library  Spray,Scala  2.11.6,Library  Play2 for Scala|false" collectionTime="1452804697145" />
+      <project id="shapeless-example" values="Scala  2.11.7,Library  ScalaTest,Library  Shapeless" collectionTime="1457890284243" />
+      <project id="russian-debugger" values="Library  ScalaTest,Scala  2.11.7" collectionTime="1457277949706" />
+    </group>
+    <group name="file-type">
+      <project id="reactive-todos" values="SBT,JAVA,Properties,HOCON,IDEA_MODULE,CSS,UNKNOWN,JavaScript,PLAIN_TEXT,XML,Scala,HTML" collectionTime="1453672896589" />
+      <project id="codebrag-slack-bot" values="UNKNOWN,IDEA_MODULE,PLAIN_TEXT,XML,Properties,HOCON,Scala,SBT" collectionTime="1456183559524" />
+      <project id="PhoneList" values="JAVA,PLAIN_TEXT,XML,IDEA_MODULE,HTML,UNKNOWN" collectionTime="1444855265917" />
+      <project id="todo-notififaction-trigger" values="IDEA_MODULE,XML,PLAIN_TEXT,JAVA,UNKNOWN" collectionTime="1453052664117" />
+      <project id="slime" values="IDEA_MODULE,UNKNOWN,PLAIN_TEXT,XML,Scala,MultiMarkdown" collectionTime="1455312473565" />
+      <project id="entities" values="Scala,PLAIN_TEXT,SBT,Properties,JSON,IDEA_MODULE,HOCON,UNKNOWN,XML" collectionTime="1458155965006" />
+      <project id="scala-slack-bot-core" values="UNKNOWN" collectionTime="1452091261379" />
+      <project id="opigram-library" values="HTML,PLAIN_TEXT,JavaScript,JSON,XML,CSS,CLASS,Scala,HOCON,Images,Properties,IDEA_MODULE,JAVA,SBT,ARCHIVE,MultiMarkdown,UNKNOWN" collectionTime="1455312473449" />
+      <project id="cruncher-results-service" values="HOCON,UNKNOWN,XML,IDEA_MODULE,JAVA,HTML,Properties,SBT,CLASS,PLAIN_TEXT,Scala" collectionTime="1446381123797" />
+      <project id="bobbot" values="Properties,JSON,XML,PLAIN_TEXT,Scala,IDEA_MODULE,UNKNOWN,SBT" collectionTime="1453672896970" />
+      <project id="quill" values="UNKNOWN,IDEA_MODULE,Scala,MultiMarkdown,Properties,SQL,XML,PLAIN_TEXT,Images,HOCON,SBT" collectionTime="1457277949840" />
+      <project id="Cruncher2" values="CSS,JavaScript,XML,PLAIN_TEXT,Images,MultiMarkdown,Scala,HTML,IDEA_MODULE,HOCON,SBT,ARCHIVE,JSON,Properties,UNKNOWN" collectionTime="1455138809652" />
+      <project id="user-service" values="UNKNOWN,Scala,IDEA_MODULE,Properties,XML,PLAIN_TEXT,SBT,HOCON" collectionTime="1455227529199" />
+      <project id="bin" values="IDEA_MODULE,Properties,UNKNOWN,XML,Python,PLAIN_TEXT" collectionTime="1457263761384" />
+      <project id="quil-example" values="PLAIN_TEXT,HOCON,Properties,SBT,Scala,IDEA_MODULE,XML,UNKNOWN" collectionTime="1456951960831" />
+      <project id="Sgrouples" values="PLAIN_TEXT,Markdown,ARCHIVE,Images,XML,CSS,UNKNOWN,HOCON,Scala,JAVA,CLASS,JSON,SBT,Properties,HTML,JavaScript,Native,YAML" collectionTime="1468258231038" />
+      <project id="opigram-view-manager-service" values="IDEA_MODULE,CSS,UNKNOWN,XML,Images,JavaScript,HOCON,SBT,CLASS,JSON,Properties,PLAIN_TEXT,HTML,ARCHIVE,Scala,JAVA" collectionTime="1445459480533" />
+      <project id="opigram-survey-service" values="Images,HTML,JSON,SBT,HOCON,CLASS,JavaScript,MultiMarkdown,XML,IDEA_MODULE,UNKNOWN,ARCHIVE,Scala,JAVA,Properties,PLAIN_TEXT,CSS" collectionTime="1452804696805" />
+      <project id="slack-scala-bot-core" values="XML,UNKNOWN,PLAIN_TEXT,SBT,IDEA_MODULE,Scala" collectionTime="1452381300490" />
+      <project id="monitoring-service" values="Properties,SBT,Scala,PLAIN_TEXT,CSS,XML,JavaScript,IDEA_MODULE,UNKNOWN,HOCON,HTML" collectionTime="1452804697137" />
+      <project id="shapeless-example" values="PLAIN_TEXT,Properties,IDEA_MODULE,UNKNOWN,SBT,XML,Scala" collectionTime="1457890284226" />
+      <project id="cards-against-humanity-slack-bot" values="XML,Scala,JSON,PLAIN_TEXT,IDEA_MODULE,UNKNOWN" collectionTime="1452375972100" />
+      <project id="russian-debugger" values="Scala,PLAIN_TEXT,XML,UNKNOWN,SBT,IDEA_MODULE,Properties" collectionTime="1457277949585" />
+    </group>
+    <group name="module type">
+      <project id="reactive-todos" values="SBT_MODULE,JAVA_MODULE" collectionTime="1453672896300" />
+      <project id="codebrag-slack-bot" values="JAVA_MODULE,SBT_MODULE" collectionTime="1456183559263" />
+      <project id="PhoneList" values="JAVA_MODULE" collectionTime="1444855265810" />
+      <project id="user-service" values="SBT_MODULE,JAVA_MODULE" collectionTime="1455227528874" />
+      <project id="slime" values="JAVA_MODULE,SBT_MODULE" collectionTime="1455312473472" />
+      <project id="entities" values="SBT_MODULE,JAVA_MODULE" collectionTime="1458155964796" />
+      <project id="todo-notififaction-trigger" values="JAVA_MODULE" collectionTime="1453052663977" />
+      <project id="opigram-library" values="SBT_MODULE,JAVA_MODULE" collectionTime="1455312473384" />
+      <project id="cruncher-results-service" values="JAVA_MODULE,SBT_MODULE" collectionTime="1446381123701" />
+      <project id="bobbot" values="JAVA_MODULE,SBT_MODULE" collectionTime="1453672896880" />
+      <project id="quill" values="JAVA_MODULE,SBT_MODULE" collectionTime="1457277949707" />
+      <project id="Cruncher2" values="SBT_MODULE,JAVA_MODULE" collectionTime="1455138809392" />
+      <project id="bin" values="JAVA_MODULE" collectionTime="1457263761276" />
+      <project id="quil-example" values="JAVA_MODULE,SBT_MODULE" collectionTime="1456951960776" />
+      <project id="Sgrouples" values="SBT_MODULE,JAVA_MODULE" collectionTime="1468258230956" />
+      <project id="opigram-view-manager-service" values="SBT_MODULE,JAVA_MODULE" collectionTime="1445459480309" />
+      <project id="opigram-survey-service" values="SBT_MODULE,JAVA_MODULE" collectionTime="1452804696495" />
+      <project id="slack-scala-bot-core" values="JAVA_MODULE,SBT_MODULE" collectionTime="1452381300392" />
+      <project id="monitoring-service" values="JAVA_MODULE,SBT_MODULE" collectionTime="1452804697025" />
+      <project id="shapeless-example" values="JAVA_MODULE,SBT_MODULE" collectionTime="1457890284111" />
+      <project id="cards-against-humanity-slack-bot" values="JAVA_MODULE,SBT_MODULE" collectionTime="1452375972024" />
+      <project id="russian-debugger" values="SBT_MODULE,JAVA_MODULE" collectionTime="1457277949455" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="9" />
+      <entry feature="execute.Application.Debug" count="1" />
+      <entry feature="execute.Application.Run" count="65" />
+      <entry feature="execute.ScalaTestRunConfiguration.Debug" count="1" />
+      <entry feature="execute.ScalaTestRunConfiguration.Run" count="12" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.Inspections" count="4" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.SBT" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ideaapp.started" count="54" />
+      <entry feature="scala.file.script.parsed" count="56140" />
+      <entry feature="scala.file.with.type.aware.annotated" count="7869" />
+      <entry feature="scala.introduce.variable" count="1" />
+      <entry feature="scala.macro.definition" count="1096" />
+      <entry feature="scala.move.class" count="7" />
+      <entry feature="scala.rename.local" count="1" />
+      <entry feature="scala.rename.member" count="19" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="19" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+    </counts>
+  </component>
+</application>

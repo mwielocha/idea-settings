@@ -1,0 +1,33 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="installation.uid" value="e9222901-816f-4cb5-b7ce-61a0d1e96878" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="lastTip" value="1" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/sgrouples&#10;/Users/mwielocha/workspace/entities&#10;/Users/mwielocha/workspace/shapeless-example&#10;/Users/mwielocha/workspace/russian-debugger&#10;/Users/mwielocha/workspace/quill&#10;/Users/mwielocha/workspace/quill-example&#10;/Users/mwielocha/workspace/codebrag-slack-bot&#10;/Users/mwielocha/workspace/user-service&#10;/Users/mwielocha/workspace/reactive-todos&#10;/Users/mwielocha/workspace/todo-notification-trigger&#10;/Users/mwielocha/workspace/opigram-survey-service&#10;/Users/mwielocha/workspace/bobot&#10;/Users/mwielocha/workspace/cards-against-humanity-slack-bot&#10;/Users/mwielocha/workspace/cruncher2.1&#10;/Users/mwielocha/workspace/slime&#10;/Users/mwielocha/workspace/scala-slack-bot-core&#10;/Users/mwielocha/workspace/monitoring-service&#10;/Users/mwielocha/workspace/opigram-library&#10;/Users/mwielocha/workspace/opigram-view-manager-service&#10;/Users/mwielocha/workspace/cruncher-results-service" />
+    <property name="last.imported.location" value="$USER_HOME$/workspace/sgrouples" />
+    <property name="create.project.preferred.importer" value="SBT" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.0.1-release-IJ143-46" />
+    <property name="android-component-compatibility-check" value="1467801313044" />
+    <property name="PLUGIN_FILTER" value="scala&#10;sh&#10;bash&#10;python" />
+    <property name="scala.last.updated" value="1468253541021" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.3505747" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+  </component>
+</application>

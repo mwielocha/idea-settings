@@ -1,0 +1,4 @@
+*.zip
+tasks/*.zip
+port
+*.lock
